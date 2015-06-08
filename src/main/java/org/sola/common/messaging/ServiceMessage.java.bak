@@ -120,9 +120,7 @@ public class ServiceMessage {
     public static final String RULE_FAILED_EXECUTION = RULE + "002";
     /** serrule003 - Validation failed.*/
     public static final String RULE_VALIDATION_FAILED = RULE + "003";
-     /** serrule004 - Business rule {0} does not exist.*/
-    public static final String RULE_NOT_FOUND_LGAWARD = RULE + "004";
-   
+
     // ApplicationEJB Messages
     /** serejbapplication001 - Service does not exist.*/
     public static final String EJB_APPLICATION_SERVICE_NOT_FOUND = EJB_APPLICATION + "001";
