@@ -4,13 +4,13 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <artifactId>sola-admin-main</artifactId>
-        <groupId>org.fao.sola.admin</groupId>
-        <version>1504a</version>
+        <groupId>org.nga.sola.admin</groupId>
+        <version>1510a</version>
         <relativePath>../../pom.xml</relativePath>
     </parent>
-    <groupId>org.fao.sola.admin.common</groupId>
+    <groupId>org.nga.sola.admin.common</groupId>
     <artifactId>sola-admin-messaging</artifactId>
-    <version>1504a</version>
+    <version>1510a</version>
     <packaging>jar</packaging>
 
     <name>Common Admin Messaging</name>
